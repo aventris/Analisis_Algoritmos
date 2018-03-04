@@ -5,5 +5,6 @@
 	#include <stdlib.h>
 	#include <math.h>
 	#include <string.h>
+	#include "tiempo.h"
 	#define SIZEARRAY(x)  (sizeof(x) / sizeof((x)[0]))
 #endif

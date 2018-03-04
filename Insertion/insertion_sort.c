@@ -17,3 +17,5 @@ int main(int argc, char const *argv[]){
 	}
 	return 0;
 }
+
+ ./a.out < archivo_a_leer >> archivo_de_salida

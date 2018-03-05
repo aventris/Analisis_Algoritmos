@@ -1,5 +1,5 @@
 run: 
-	gcc simplebubble2.c leerArchivo.c -Wall -o Sbubble.o
+	gcc simplebubble2.c leerArchivo.c tiempo.c -Wall -o Sbubble.o
 script:
 	python script.py
 clean:

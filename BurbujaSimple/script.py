@@ -10,7 +10,7 @@ ordenamiento de los numeros.
 Esta seccion se puede modicar para empezar con el text con
 el nombre del ejecutable desado
 """
-text = './Sbubble.o '+n +' < numeros10millones.txt'
+text = './Sbubble.o '+n +' < numeros10millones.txt > salBurbuja.txt'
 print text
 
 os.system(text)

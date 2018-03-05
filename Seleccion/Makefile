@@ -1,5 +1,5 @@
 run: 
-	gcc seleccion.c leerArchivo.c -Wall -o seleccion.o
+	gcc seleccion.c leerArchivo.c tiempo.c -Wall -o seleccion.o
 clean:
 	rm seleccion.o
 script:

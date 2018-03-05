@@ -7,4 +7,5 @@
 	#include <string.h>
 	#include "tiempo.h"
 	#define SIZEARRAY(x)  (sizeof(x) / sizeof((x)[0]))
+	double utime0, stime0, wtime0,utime1, stime1, wtime1;
 #endif

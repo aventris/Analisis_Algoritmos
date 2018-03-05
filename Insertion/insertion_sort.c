@@ -35,9 +35,12 @@ int main(int argc, char const *argv[]){
 	//Evaluar los tiempos de ejecución 
 	//******************************************************************
 	uswtime(&utime1, &stime1, &wtime1);
+	//Impresión array ordenado
 	for (i = 0; i < n; i++){
 		printf("%d\n", array[i]);
 	}
+	/*Liberar memoria */
+	free(array);
 	//Cálculo del tiempo de ejecución del programa
 	printf("\n");
 	printf("real (Tiempo total)  %.10f s\n",  wtime1 - wtime0);

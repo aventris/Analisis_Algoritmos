@@ -1,8 +1,8 @@
-//Este algoritmo es bueno para inputs de pocos elementos
 #include"funciones.h"
 int main(int argc, char const *argv[]){
 	//Variables
-	int i,j,temp,n,*array;
+	int i,j,temp,n,*array, indice;
+	arbol nodoRaiz=NULL;  
 	//Otenemos n, que es el tamaño del arreglo
 	n = atoi(argv[1]);
 	printf("Tamanio: %d\n",n);
@@ -16,28 +16,23 @@ int main(int argc, char const *argv[]){
 	//Iniciar el conteo del tiempo para las evaluaciones de rendimiento
 	//******************************************************************	
 	uswtime(&utime0, &stime0, &wtime0);
-	//Algoritmo Insertion sort
-	//Se itera por cada elemento del arreglo menos 1 (el primero), 
-	for (j = 1; j < n; j++){
-		//Obtenemos el valor del elemento que vamos a comparar
-		temp=array[j];
-		//Las comparaciones se deben hacer con todos los elementos anteriores
-		i=j-1;
-		//Comparamos con todos los elementos anteriores, y nos continuamos moviendo hacia atras mientras el elemento sea mayor a temp,
-		//En cada ocasión que se avanza hacia atras, recorremos hacia la derecha el valor con el que comparamos
-		while(i>=0 && array[i]>temp){
-			array[i+1]=array[i];
-			i-=1;
-		}
-		//Insertamos el elemento en la posición que le corresponde
-		array[i+1]=temp;
+	//ABB
+	//Insertamos los elementos del arreglo en el arbol
+	for (i = 0; i < n; i++){
+		insertarNodo(&nodoRaiz,array[i]);
 	}
+	//Realizamos el recorrido inorden del árbol y lo guardamos en el array
+	//El 0 es por el indice en que debe ser almacenado el primer elemento leido del arbol en el array
+	inOrden(nodoRaiz,array,0);
 	//Evaluar los tiempos de ejecución 
 	//******************************************************************
 	uswtime(&utime1, &stime1, &wtime1);
+	//Impresión array ordenado
 	for (i = 0; i < n; i++){
 		printf("%d\n", array[i]);
 	}
+	/*Liberar memoria */
+	free(array);
 	//Cálculo del tiempo de ejecución del programa
 	printf("\n");
 	printf("real (Tiempo total)  %.10f s\n",  wtime1 - wtime0);

@@ -1,8 +1,5 @@
 /*Burbuja simple*/
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include "leerArchivo.h"
+#include "funciones.h"
 int main(int argc, char const *argv[])
 {
 

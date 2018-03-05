@@ -1,5 +1,5 @@
 //Este algoritmo es bueno para inputs de pocos elementos
-#include"funciones.h"
+#include "funciones.h"
 int main(int argc, char const *argv[]){
 	//Variables
 	int i,j,temp,n,*array;

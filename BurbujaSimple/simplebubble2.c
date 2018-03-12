@@ -5,7 +5,7 @@ int main(int argc, char const *argv[])
 	int n = atoi(argv[1]);
 	int *A = (int *)malloc(sizeof(int)*n);
 	int j,i,aux;
-	printf("%i\n",n);
+	//printf("%i\n",n);
 	A = arreglo(n);
 	//******************************************************************	
 	//Iniciar el conteo del tiempo para las evaluaciones de rendimiento
@@ -24,12 +24,13 @@ int main(int argc, char const *argv[])
 	//Evaluar los tiempos de ejecución 
 	//******************************************************************
 	uswtime(&utime1, &stime1, &wtime1);
-	/*Impresion de numeros*/
+	/*Impresion de numeros
 	//printf("\n*******************************************Numeros ordenados\n\n\n");
 	for(i = 0; i < n;i++)
 		fprintf(stdout,"%d\n",A[i]);
-	
+	*/
 	free(A);
+	printf("Prueba con %d numeros\n",n );
 	printf("\n");
 	printf("real (Tiempo total)  %.10f s\n",  wtime1 - wtime0);
 	printf("user (Tiempo de procesamiento en CPU) %.10f s\n",  utime1 - utime0);

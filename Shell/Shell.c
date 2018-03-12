@@ -49,14 +49,16 @@ void main(int args, char *argv[]){
 
 
 	//Imprime arreglo ordenado
+	/*
 	for(i=0;i<n;i++)
 		printf("%d\n",A[i]);
-
+	*/
 	//Libera el arreglo
 	free(A);
 
 	/* Imprime tiempos */
 	//Cálculo del tiempo de ejecución del programa
+	printf("Prueba con numero = %d\n",n);
 	printf("\n");
 	printf("real (Tiempo total)  %.10f s\n",  wtime1 - wtime0);
 	printf("user (Tiempo de procesamiento en CPU) %.10f s\n",  utime1 - utime0);

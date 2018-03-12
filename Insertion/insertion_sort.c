@@ -5,7 +5,7 @@ int main(int argc, char const *argv[]){
 	int i,j,temp,n,*array;
 	//Otenemos n, que es el tamaño del arreglo
 	n = atoi(argv[1]);
-	printf("Tamanio: %d\n",n);
+	//printf("Tamanio: %d\n",n);
 	//Creamos un arreglo dinámico para guardar el arreglo
 	array = (int*)malloc(n*sizeof(int));
 	//Obtenemos los valores del arreglo
@@ -36,12 +36,14 @@ int main(int argc, char const *argv[]){
 	//******************************************************************
 	uswtime(&utime1, &stime1, &wtime1);
 	//Impresión array ordenado
+	/*
 	for (i = 0; i < n; i++){
 		printf("%d\n", array[i]);
-	}
+	}*/
 	/*Liberar memoria */
 	free(array);
 	//Cálculo del tiempo de ejecución del programa
+	printf("Prueba con %d numeros\n",n );
 	printf("\n");
 	printf("real (Tiempo total)  %.10f s\n",  wtime1 - wtime0);
 	printf("user (Tiempo de procesamiento en CPU) %.10f s\n",  utime1 - utime0);

@@ -12,7 +12,7 @@ void main(int argc, char *argv[]){
 	int i,j,aux;
 	
 	n = atoi(argv[1]);
-	printf("Tamanio: %d\n",n);
+	//printf("Tamanio: %d\n",n);
 
 	A = (int*)malloc(n*sizeof(int));
 
@@ -39,13 +39,14 @@ void main(int argc, char *argv[]){
 	/* Fin de algorimo*/
 	/* Tiempo final */
 	uswtime(&utime1, &stime1, &wtime1);
-	/* Imprimir arreglo ordenado */
+	/* Imprimir arreglo ordenado 
 	for(i=0;i<n;i++)	
 		printf("%d\n",A[i]);
-	
+	*/
 	/*Librear memoria */
 	free(A);
 	/* Imprimir tiempos */	
+	printf("Prueba con %d numeros\n",n );
 	printf("\n");
 	printf("real (Tiempo total)  %.10f s\n",  wtime1 - wtime0);
 	printf("user (Tiempo de procesamiento en CPU) %.10f s\n",  utime1 - utime0);

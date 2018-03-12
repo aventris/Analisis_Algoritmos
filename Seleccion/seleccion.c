@@ -29,12 +29,14 @@ int main(int argc, char const *argv[])
 	//Evaluar los tiempos de ejecución 
 	//******************************************************************
 	uswtime(&utime1, &stime1, &wtime1);
-	/*Numeros ordenados*/
+	/*Numeros ordenados
 	//printf("\nNumeros ordenados\n");
 	for(i = 0; i < n;i++)
 		fprintf(stdout,"%d\n",A[i]);
+	*/
 	free(A);
 	//Cálculo del tiempo de ejecución del programa
+	printf("Prueba con %d numeros\n",n );
 	printf("\n");
 	printf("real (Tiempo total)  %.10f s\n",  wtime1 - wtime0);
 	printf("user (Tiempo de procesamiento en CPU) %.10f s\n",  utime1 - utime0);

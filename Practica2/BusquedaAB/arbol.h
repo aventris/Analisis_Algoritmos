@@ -13,4 +13,6 @@
 	void insertarNodo(arbol *,int);
 	//Función que permite recorrer el árbol en inorden
 	int inOrden(arbol,int*,int);
+	//Busca un arbol dentro del arbol
+	int busquedaArbol(arbol, int);
 #endif

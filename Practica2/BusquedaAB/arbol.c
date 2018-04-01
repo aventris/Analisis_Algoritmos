@@ -34,3 +34,20 @@ int inOrden(arbol nodo,int *array,int indice){
 	}
 	return indice;
 }
+//Método que permite realizar la búsqueda en el un arbol
+//Se reciben como parámetros el arbol en el que se buscará y el valor que se buscará
+int busquedaArbol(arbol nodo, int valor_buscar){
+	//Si el valor del nodo actual es igual al valor buscado retornamos 1
+	if (nodo->valor==valor_buscar){
+		return 1;
+	}else{
+		//Si no, entonces comparamos el valor a buscar con el valor del nodo para saber hacia que lado ir
+		if(valor_buscar>nodo->valor){
+			return busquedaArbol(nodo->derecho, valor);
+		}else{
+			return busquedaArbol(nodo->izquierdo, valor);
+		}
+	}
+	//El valor no fue encontrado, entonces retornamos 0
+	return 0;
+}

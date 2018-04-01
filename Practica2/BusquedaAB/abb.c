@@ -22,6 +22,8 @@ int main(int argc, char const *argv[]){
 	for (i = 0; i < n; i++){
 		insertarNodo(&nodoRaiz,array[i]);
 	}
+
+	//Imprimir información
 	puts("*******************************************************************************\n");
 	printf("Pruebas con %d numeros\n\n",n);
 	//Realizamos el recorrido inorden del árbol y lo guardamos en el array

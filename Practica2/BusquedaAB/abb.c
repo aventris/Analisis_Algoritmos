@@ -22,7 +22,6 @@ int main(int argc, char const *argv[]){
 	for (i = 0; i < n; i++){
 		insertarNodo(&nodoRaiz,array[i]);
 	}
-
 	//Imprimir información
 	puts("*******************************************************************************\n");
 	printf("Pruebas con %d numeros\n\n",n);
@@ -33,13 +32,13 @@ int main(int argc, char const *argv[]){
 	free(array);
 	//Se realiza la busqueda de cada elemento y se muestran los tiempos por cada uno
 	for(i=0;i<20;i++){
-		//Método para realizar la búsqueda, el método devuelve un 1 se el valor fue encontrado, o un 0 si no
 		printf("---------------------------\n");
 		printf("Número a buscar:%d\n",A[i]);
 		//******************************************************************	
 		//Iniciar el conteo del tiempo para las evaluaciones de rendimiento
 		//******************************************************************	
 		uswtime(&utime0, &stime0, &wtime0);
+		//Método para realizar la búsqueda, el método devuelve un 1 se el valor fue encontrado, o un 0 si no
 		printf("¿Encontrado?:%d\n",busquedaArbol(nodoRaiz, A[i]));
 		//Evaluar los tiempos de ejecución 
 		//******************************************************************

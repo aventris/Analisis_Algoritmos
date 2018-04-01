@@ -17,16 +17,13 @@ int main(int argc, char const *argv[]){
 	for(i=0;i<n;i++){
 		scanf("%d",&array[i]);
 	}
-	//******************************************************************	
-	//Iniciar el conteo del tiempo para las evaluaciones de rendimiento
-	//******************************************************************	
-	uswtime(&utime0, &stime0, &wtime0);
 	//ABB
 	//Insertamos los elementos del arreglo en el arbol
 	for (i = 0; i < n; i++){
 		insertarNodo(&nodoRaiz,array[i]);
 	}
-	printf("Pruebas con %d numeros\n",n);
+	puts("*******************************************************************************\n");
+	printf("Pruebas con %d numeros\n\n",n);
 	//Realizamos el recorrido inorden del árbol y lo guardamos en el array
 	//El 0 es por el indice en que debe ser almacenado el primer elemento leido del arbol en el array
 	//inOrden(nodoRaiz,array,0);
@@ -35,8 +32,12 @@ int main(int argc, char const *argv[]){
 	//Se realiza la busqueda de cada elemento y se muestran los tiempos por cada uno
 	for(i=0;i<20;i++){
 		//Método para realizar la búsqueda, el método devuelve un 1 se el valor fue encontrado, o un 0 si no
-		printf("\n****************************************\n");
+		printf("---------------------------\n");
 		printf("Número a buscar:%d\n",A[i]);
+		//******************************************************************	
+		//Iniciar el conteo del tiempo para las evaluaciones de rendimiento
+		//******************************************************************	
+		uswtime(&utime0, &stime0, &wtime0);
 		printf("¿Encontrado?:%d\n",busquedaArbol(nodoRaiz, A[i]));
 		//Evaluar los tiempos de ejecución 
 		//******************************************************************
@@ -51,14 +52,9 @@ int main(int argc, char const *argv[]){
 		printf("user (Tiempo de procesamiento en CPU) %.10f s\n",  utime1 - utime0);
 		printf("sys (Tiempo en acciónes de E/S)  %.10f s\n",  stime1 - stime0);
 		printf("CPU/Wall   %.10f %% \n",100.0 * (utime1 - utime0 + stime1 - stime0) / (wtime1 - wtime0));
-		//Mostrar los tiempos en formato exponecial
-		printf("\n");
-		printf("real (Tiempo total)  %.10e s\n",  wtime1 - wtime0);
-		printf("user (Tiempo de procesamiento en CPU) %.10e s\n",  utime1 - utime0);
-		printf("sys (Tiempo en acciónes de E/S)  %.10e s\n",  stime1 - stime0);
-		printf("CPU/Wall   %.10f %% \n",100.0 * (utime1 - utime0 + stime1 - stime0) / (wtime1 - wtime0));
 		printf("\n");
 		//******************************************************************
 	}
+	puts("\n\n\n");
 	return 0;
 }

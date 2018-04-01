@@ -4,7 +4,7 @@
 
 gcc -Wall abb.c arbol.c tiempo.c
 
-./a.out 100 < numeros10millones.txt >> salida_abb.txt
+./a.out 100 < numeros10millones.txt > salida_abb.txt
 ./a.out 1000 < numeros10millones.txt >> salida_abb.txt
 ./a.out 5000 < numeros10millones.txt >> salida_abb.txt
 ./a.out 10000 < numeros10millones.txt >> salida_abb.txt

@@ -4,7 +4,7 @@
 
 gcc -Wall insertion_sort.c tiempo.c
 
-./a.out 100 < numeros10millones.txt >> salida_insercion.txt
+./a.out 100 < numeros10millones.txt > salida_insercion.txt
 ./a.out 1000 < numeros10millones.txt >> salida_insercion.txt
 ./a.out 5000 < numeros10millones.txt >> salida_insercion.txt
 ./a.out 10000 < numeros10millones.txt >> salida_insercion.txt

@@ -4,7 +4,7 @@
 
 gcc -Wall Shell.c tiempo.c -lm
 
-./a.out 100 < numeros10millones.txt >> salida_Shell.txt
+./a.out 100 < numeros10millones.txt > salida_Shell.txt
 ./a.out 1000 < numeros10millones.txt >> salida_Shell.txt
 ./a.out 5000 < numeros10millones.txt >> salida_Shell.txt
 ./a.out 10000 < numeros10millones.txt >> salida_Shell.txt

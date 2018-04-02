@@ -49,11 +49,11 @@ int main(int argc, char const *argv[]){
 		resultado=0;
 		printf("---------------------------\n");
 		printf("Número a buscar:%d\n",A[i]);
+		p.valor_buscar=A[i];
 		//******************************************************************
 		//Iniciar el conteo del tiempo para las evaluaciones de rendimiento
 		//******************************************************************
 		uswtime(&utime0, &stime0, &wtime0);
-		p.valor_buscar=A[i];
 		//Creamos los hilos
 		for(j=0;j<num_hilos;j++){
 			p.nodo=nodoRaiz[j];

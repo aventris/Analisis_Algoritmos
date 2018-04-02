@@ -1,0 +1,2 @@
+
+int *arreglo(int n);

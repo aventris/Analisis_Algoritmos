@@ -1,8 +1,8 @@
 #!/bin/bash
 # -*- ENCODING: UTF-8 -*-
-#Script para ABB
+#Script para ABB con hilos
 
-gcc -Wall abb.c arbol.c tiempo.c
+gcc -Wall -pthread abb.c arbol.c tiempo.c
 
 ./a.out 100 < numeros10millones.txt > salida_abb_hilos.txt
 ./a.out 1000 < numeros10millones.txt >> salida_abb_hilos.txt
@@ -14,7 +14,7 @@ gcc -Wall abb.c arbol.c tiempo.c
 ./a.out 400000 < numeros10millones.txt >> salida_abb_hilos.txt
 ./a.out 600000 < numeros10millones.txt >> salida_abb_hilos.txt
 ./a.out 800000 < numeros10millones.txt >> salida_abb_hilos.txt
-./a.out 1000000 < numeros10millones.txt > salida_abb_hilos.txt
+./a.out 1000000 < numeros10millones.txt >> salida_abb_hilos.txt
 ./a.out 2000000 < numeros10millones.txt >> salida_abb_hilos.txt
 ./a.out 3000000 < numeros10millones.txt >> salida_abb_hilos.txt
 ./a.out 4000000 < numeros10millones.txt >> salida_abb_hilos.txt

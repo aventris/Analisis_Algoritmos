@@ -24,7 +24,7 @@ int main(int argc, char const *argv[]){
 	}
 	//Imprimir información
 	puts("*******************************************************************************\n");
-	printf("Pruebas con %d numeros\n\n",n);
+	printf("Pruebas con n=%d\n\n",n);
 	//Realizamos el recorrido inorden del árbol y lo guardamos en el array
 	//El 0 es por el indice en que debe ser almacenado el primer elemento leido del arbol en el array
 	//inOrden(nodoRaiz,array,0);

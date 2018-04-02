@@ -1,7 +1,7 @@
 #include"funciones.h"
 int main(int argc, char const *argv[]){
 	//Variables
-	int i,j,temp,n,*array, indice;
+	int i,n,*array;
 	arbol nodoRaiz=NULL;  
 	//Otenemos n, que es el tamaño del arreglo
 	n = atoi(argv[1]);

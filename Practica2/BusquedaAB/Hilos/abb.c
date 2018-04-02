@@ -15,19 +15,8 @@ int main(int argc, char const *argv[]){
 	n = atoi(argv[1]);
 	//Definimos cuantos números quedarán por cada hilo
 	elementos_hilo=n/num_hilos;
-	//Identificadores hilos
-	//VOY AQUÍIIIIIIIIIIIIIIIIIIIII,
-	//TODO: Aquí tengo que generar un pthread_t en un for, me falta crear cada hilo y ejecutarlos
-	//hacer join e imprimir tiempos
-	pthread_t h1;
-	pthread_t h2;
-	pthread_t h3;
-	pthread_t h4;
-
-	pthread_create (&h1, NULL , hola , NULL );
-
 	//Creamos un arreglo dinámico para guardar el arreglo
-	array = (int*)malloc(elementos_hilo*sizeof(int));
+	array = (int*)malloc(n*sizeof(int));
 	//Obtenemos los valores del arreglo
 	for(i=0;i<n;i++){
 		scanf("%d",&array[i]);
@@ -42,31 +31,45 @@ int main(int argc, char const *argv[]){
 		}
 		valores_insertados+=elementos_hilo;
 	}
+	//Identificadores hilos
+	pthread_t h[num_hilos];
 	//Imprimir información
 	puts("*******************************************************************************\n");
-	printf("Pruebas con %d numeros\n\n",n);
+	printf("Pruebas con n=%d\n\n",n);
 	//Realizamos el recorrido inorden del árbol y lo guardamos en el array
 	//El 0 es por el indice en que debe ser almacenado el primer elemento leido del arbol en el array
 	//inOrden(nodoRaiz,array,0);
 	/*Liberar memoria */
-	free(array);
+	//free(array);
+	struct parametros p;
+	void *retorno;
+	int resultado;
 	//Se realiza la busqueda de cada elemento y se muestran los tiempos por cada uno
 	for(i=0;i<20;i++){
+		resultado=0;
 		printf("---------------------------\n");
 		printf("Número a buscar:%d\n",A[i]);
-		//******************************************************************	
+		//******************************************************************
 		//Iniciar el conteo del tiempo para las evaluaciones de rendimiento
-		//******************************************************************	
+		//******************************************************************
 		uswtime(&utime0, &stime0, &wtime0);
-		//Método para realizar la búsqueda, el método devuelve un 1 se el valor fue encontrado, o un 0 si no
-		printf("¿Encontrado?:%d\n",busquedaArbol(nodoRaiz, A[i]));
+		p.valor_buscar=A[i];
+		//Creamos los hilos
+		for(j=0;j<num_hilos;j++){
+			p.nodo=nodoRaiz[j];
+			pthread_create (&h[j], NULL , busquedaA , (void*)&p);
+		}
+		//Esperamos que los hilos terminen y verificamos que obtuvieron
+		for(j=0;j<num_hilos;j++){
+			pthread_join(h[j],&retorno);
+			if((int)retorno==1){
+				resultado=1;
+			}
+		}
 		//Evaluar los tiempos de ejecución 
 		//******************************************************************
 		uswtime(&utime1, &stime1, &wtime1);
-		//Impresión array ordenado
-		/*for (i = 0; i < n; i++){
-			printf("%d\n", array[i]);
-		}*/
+		printf("Encontrado: %d\n",resultado);
 		//Cálculo del tiempo de ejecución del programa
 		printf("\n");
 		printf("real (Tiempo total)  %.10f s\n",  wtime1 - wtime0);
@@ -79,7 +82,9 @@ int main(int argc, char const *argv[]){
 	puts("\n\n\n");
 	return 0;
 }
-
-void *busquedaA(void *parametros){
-
+//Función que ejecuta cada hilo, se recibe el arbol con el que se trabajará y el valor a buscar, regresa un 0 o 1
+void *busquedaA(void *p){
+	struct parametros *p1=(struct parametros*)p;
+	//Método para realizar la búsqueda, el método devuelve un 1 se el valor fue encontrado, o un 0 si no
+	return (void*)busquedaArbol(p1->nodo,p1->valor_buscar);
 }

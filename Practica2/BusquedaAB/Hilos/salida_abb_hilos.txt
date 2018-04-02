@@ -4,180 +4,180 @@ Pruebas con n=100
 
 ---------------------------
 Número a buscar:322486
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0007119179 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:14700764
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002560616 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:3128036
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002110004 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:6337399
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0002169609 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:61396
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001931190 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:10393545
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001800060 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147445644
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001771450 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1295390003
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002489090 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:450057883
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000128746 s
+real (Tiempo total)  0.0001869202 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:187645041
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001819134 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1980098116
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001709461 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:152503
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001430511 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:5000
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000011921 s
+real (Tiempo total)  0.0001590252 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1493283650
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001668930 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:214826
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001869202 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1843349527
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001680851 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1360839354
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001521111 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2109248666
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001599789 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147470852
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001950264 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:0
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001459122 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
@@ -192,180 +192,180 @@ Pruebas con n=1000
 
 ---------------------------
 Número a buscar:322486
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0005779266 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:14700764
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002009869 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:3128036
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001900196 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:6337399
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001561642 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:61396
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001890659 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:10393545
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001859665 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147445644
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002670288 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1295390003
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002250671 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:450057883
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001840591 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:187645041
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000011921 s
+real (Tiempo total)  0.0002009869 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1980098116
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002160072 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:152503
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001881123 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:5000
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001900196 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
-sys (Tiempo en acciónes de E/S)  0.0000000000 s
-CPU/Wall   0.0000000000 % 
+sys (Tiempo en acciónes de E/S)  0.0312500000 s
+CPU/Wall   16445.6712672522 % 
 
 ---------------------------
 Número a buscar:1493283650
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001788139 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:214826
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001428127 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1843349527
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001668930 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1360839354
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001759529 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2109248666
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001680851 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147470852
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001649857 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:0
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001800060 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
@@ -380,180 +380,180 @@ Pruebas con n=5000
 
 ---------------------------
 Número a buscar:322486
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0006709099 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:14700764
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002079010 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:3128036
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002069473 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:6337399
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001909733 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:61396
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0002191067 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:10393545
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0002019405 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147445644
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002191067 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1295390003
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002138615 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:450057883
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0002079010 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:187645041
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001859665 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1980098116
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000011921 s
+real (Tiempo total)  0.0002279282 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:152503
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0002160072 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:5000
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0002088547 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1493283650
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0002069473 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:214826
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001621246 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1843349527
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001671314 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1360839354
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002040863 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2109248666
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001659393 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147470852
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000011921 s
+real (Tiempo total)  0.0001590252 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:0
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001401901 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
@@ -568,180 +568,180 @@ Pruebas con n=10000
 
 ---------------------------
 Número a buscar:322486
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0006999969 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:14700764
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002050400 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:3128036
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001769066 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:6337399
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002069473 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:61396
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001969337 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:10393545
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000011921 s
+real (Tiempo total)  0.0001881123 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147445644
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001909733 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1295390003
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001928806 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:450057883
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000011921 s
+real (Tiempo total)  0.0001959801 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:187645041
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001881123 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1980098116
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001950264 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:152503
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001850128 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:5000
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001549721 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1493283650
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000011921 s
+real (Tiempo total)  0.0001649857 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:214826
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001609325 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1843349527
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000011921 s
+real (Tiempo total)  0.0001590252 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1360839354
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001602173 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2109248666
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001881123 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147470852
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001440048 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:0
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001568794 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
@@ -756,180 +756,180 @@ Pruebas con n=50000
 
 ---------------------------
 Número a buscar:322486
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0006110668 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:14700764
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000011921 s
+real (Tiempo total)  0.0001718998 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:3128036
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001749992 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:6337399
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001490116 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:61396
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001487732 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:10393545
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0002098083 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147445644
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001878738 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1295390003
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002219677 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:450057883
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002160072 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:187645041
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002219677 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1980098116
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000011921 s
+real (Tiempo total)  0.0001740456 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:152503
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001981258 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:5000
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0002009869 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1493283650
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002369881 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:214826
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002660751 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1843349527
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001711845 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1360839354
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002448559 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2109248666
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0002300739 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147470852
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001909733 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:0
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0002319813 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
@@ -944,180 +944,180 @@ Pruebas con n=100000
 
 ---------------------------
 Número a buscar:322486
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0007009506 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:14700764
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002019405 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:3128036
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001821518 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:6337399
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001819134 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:61396
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001831055 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:10393545
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002179146 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147445644
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000011921 s
+real (Tiempo total)  0.0001990795 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1295390003
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002048016 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:450057883
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002360344 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:187645041
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001969337 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1980098116
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002250671 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:152503
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001909733 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:5000
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001819134 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1493283650
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001561642 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:214826
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001840591 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1843349527
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001828671 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1360839354
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001869202 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2109248666
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001828671 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147470852
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001580715 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:0
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001399517 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
@@ -1132,180 +1132,180 @@ Pruebas con n=200000
 
 ---------------------------
 Número a buscar:322486
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000038147 s
+real (Tiempo total)  0.0007278919 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:14700764
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002038479 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:3128036
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001831055 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:6337399
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001869202 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:61396
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002257824 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:10393545
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001971722 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147445644
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002059937 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1295390003
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002341270 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:450057883
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002069473 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:187645041
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001969337 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1980098116
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002250671 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:152503
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002110004 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:5000
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002050400 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1493283650
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001580715 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:214826
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001509190 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1843349527
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001587868 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1360839354
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001590252 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2109248666
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001759529 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147470852
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001590252 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:0
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001440048 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
@@ -1320,180 +1320,180 @@ Pruebas con n=400000
 
 ---------------------------
 Número a buscar:322486
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0007009506 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:14700764
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002069473 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:3128036
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0002458096 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:6337399
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0003719330 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:61396
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002222061 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:10393545
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0002589226 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147445644
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001981258 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1295390003
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002040863 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:450057883
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002419949 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:187645041
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002219677 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1980098116
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000011921 s
+real (Tiempo total)  0.0002861023 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
-sys (Tiempo en acciónes de E/S)  0.0000000000 s
-CPU/Wall   0.0000000000 % 
+sys (Tiempo en acciónes de E/S)  0.0156250000 s
+CPU/Wall   5461.3333333333 % 
 
 ---------------------------
 Número a buscar:152503
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001909733 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:5000
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002009869 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1493283650
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002000332 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:214826
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001721382 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1843349527
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001661777 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1360839354
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001718998 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2109248666
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0002660751 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147470852
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0002439022 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:0
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000011921 s
+real (Tiempo total)  0.0002110004 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
@@ -1508,180 +1508,180 @@ Pruebas con n=600000
 
 ---------------------------
 Número a buscar:322486
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0006370544 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:14700764
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002210140 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:3128036
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0002419949 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:6337399
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001499653 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:61396
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001399517 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:10393545
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001780987 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147445644
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001819134 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1295390003
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001800060 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:450057883
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0002610683 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:187645041
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001709461 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1980098116
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001709461 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:152503
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001769066 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:5000
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001630783 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1493283650
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001988411 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:214826
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001549721 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1843349527
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001800060 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1360839354
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001831055 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2109248666
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001890659 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147470852
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001301765 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:0
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001950264 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
@@ -1696,180 +1696,180 @@ Pruebas con n=800000
 
 ---------------------------
 Número a buscar:322486
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0005841255 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:14700764
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0002138615 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:3128036
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001509190 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:6337399
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001509190 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:61396
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001769066 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:10393545
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001780987 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147445644
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001921654 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1295390003
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0002279282 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:450057883
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001800060 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:187645041
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002160072 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1980098116
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001738071 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:152503
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001840591 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:5000
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001559258 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1493283650
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001549721 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:214826
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001928806 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1843349527
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001811981 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1360839354
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001640320 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2109248666
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001449585 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147470852
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001969337 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:0
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001959801 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
@@ -1884,180 +1884,180 @@ Pruebas con n=1000000
 
 ---------------------------
 Número a buscar:322486
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000038147 s
+real (Tiempo total)  0.0005831718 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:14700764
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0002028942 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:3128036
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002110004 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:6337399
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001699924 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:61396
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001959801 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:10393545
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001711845 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147445644
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001740456 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1295390003
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001680851 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:450057883
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001659393 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:187645041
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001928806 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1980098116
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001671314 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:152503
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001900196 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
-sys (Tiempo en acciónes de E/S)  0.0000000000 s
-CPU/Wall   0.0000000000 % 
+sys (Tiempo en acciónes de E/S)  0.0312500000 s
+CPU/Wall   16445.6712672522 % 
 
 ---------------------------
 Número a buscar:5000
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002601147 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1493283650
-¿Encontrado?:1
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0004298687 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:214826
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000097752 s
+real (Tiempo total)  0.0002880096 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1843349527
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0003180504 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1360839354
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002541542 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2109248666
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002028942 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147470852
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000011921 s
+real (Tiempo total)  0.0002968311 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:0
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0003290176 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
@@ -2072,180 +2072,180 @@ Pruebas con n=2000000
 
 ---------------------------
 Número a buscar:322486
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0005710125 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:14700764
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000011921 s
+real (Tiempo total)  0.0001990795 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:3128036
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001769066 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:6337399
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001878738 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:61396
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001740456 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:10393545
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001480579 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147445644
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001649857 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1295390003
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001859665 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:450057883
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001428127 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:187645041
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001420975 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1980098116
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001420975 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:152503
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0002298355 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:5000
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001921654 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1493283650
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001850128 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:214826
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002088547 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1843349527
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002050400 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1360839354
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002050400 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2109248666
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002048016 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147470852
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001399517 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:0
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001809597 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
@@ -2260,180 +2260,180 @@ Pruebas con n=3000000
 
 ---------------------------
 Número a buscar:322486
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000050068 s
+real (Tiempo total)  0.0004611015 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
-sys (Tiempo en acciónes de E/S)  0.0000000000 s
-CPU/Wall   0.0000000000 % 
+sys (Tiempo en acciónes de E/S)  0.0156250000 s
+CPU/Wall   3388.6246122027 % 
 
 ---------------------------
 Número a buscar:14700764
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001518726 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:3128036
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001599789 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:6337399
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001511574 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:61396
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001389980 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:10393545
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001790524 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147445644
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002138615 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1295390003
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000038147 s
+real (Tiempo total)  0.0002181530 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:450057883
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001969337 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:187645041
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002179146 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1980098116
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002219677 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:152503
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001909733 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:5000
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002551079 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1493283650
-¿Encontrado?:1
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002169609 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:214826
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001599789 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1843349527
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001959801 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1360839354
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001671314 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2109248666
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001800060 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147470852
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001811981 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:0
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001690388 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
@@ -2448,180 +2448,180 @@ Pruebas con n=4000000
 
 ---------------------------
 Número a buscar:322486
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0005970001 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:14700764
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000011921 s
+real (Tiempo total)  0.0001931190 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:3128036
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002040863 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:6337399
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002369881 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:61396
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002071857 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:10393545
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001919270 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147445644
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002319813 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1295390003
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001981258 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:450057883
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001549721 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:187645041
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001778603 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1980098116
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000009537 s
+real (Tiempo total)  0.0001699924 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:152503
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001831055 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:5000
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001490116 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1493283650
-¿Encontrado?:1
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001928806 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:214826
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001709461 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1843349527
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001771450 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1360839354
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000038147 s
+real (Tiempo total)  0.0001859665 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2109248666
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001628399 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147470852
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001950264 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:0
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001480579 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
@@ -2636,180 +2636,180 @@ Pruebas con n=5000000
 
 ---------------------------
 Número a buscar:322486
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000069141 s
+real (Tiempo total)  0.0005519390 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:14700764
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000038147 s
+real (Tiempo total)  0.0002100468 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:3128036
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000050068 s
+real (Tiempo total)  0.0001721382 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:6337399
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001838207 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:61396
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001897812 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:10393545
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0002050400 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147445644
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001740456 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1295390003
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000050068 s
+real (Tiempo total)  0.0001778603 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:450057883
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0002031326 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:187645041
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001981258 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1980098116
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001449585 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:152503
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002150536 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:5000
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001699924 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1493283650
-¿Encontrado?:1
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001749992 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:214826
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001969337 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1843349527
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0002689362 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1360839354
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000050068 s
+real (Tiempo total)  0.0002429485 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2109248666
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001890659 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147470852
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001790524 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:0
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002000332 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
@@ -2824,180 +2824,180 @@ Pruebas con n=6000000
 
 ---------------------------
 Número a buscar:322486
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000050068 s
+real (Tiempo total)  0.0005328655 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:14700764
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001769066 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:3128036
-¿Encontrado?:1
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001749992 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:6337399
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001738071 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:61396
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001769066 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:10393545
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001831055 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147445644
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001721382 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1295390003
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001540184 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:450057883
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000038147 s
+real (Tiempo total)  0.0001609325 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:187645041
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000069141 s
+real (Tiempo total)  0.0001680851 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1980098116
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001418591 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:152503
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001580715 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:5000
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001502037 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1493283650
-¿Encontrado?:1
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0001540184 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:214826
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001800060 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1843349527
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001559258 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1360839354
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000038147 s
+real (Tiempo total)  0.0001621246 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2109248666
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001540184 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147470852
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001468658 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:0
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0001499653 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
@@ -3012,180 +3012,180 @@ Pruebas con n=7000000
 
 ---------------------------
 Número a buscar:322486
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000081062 s
+real (Tiempo total)  0.0004899502 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:14700764
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000038147 s
+real (Tiempo total)  0.0001559258 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:3128036
-¿Encontrado?:1
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001621246 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:6337399
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001490116 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:61396
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001521111 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:10393545
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001540184 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147445644
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001280308 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1295390003
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001368523 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
-sys (Tiempo en acciónes de E/S)  0.0000000000 s
-CPU/Wall   0.0000000000 % 
+sys (Tiempo en acciónes de E/S)  0.0312500000 s
+CPU/Wall   22834.8432055749 % 
 
 ---------------------------
 Número a buscar:450057883
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000050068 s
+real (Tiempo total)  0.0001389980 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:187645041
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001361370 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1980098116
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001559258 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:152503
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001730919 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:5000
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001599789 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1493283650
-¿Encontrado?:1
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001640320 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:214826
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001609325 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1843349527
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001969337 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1360839354
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000050068 s
+real (Tiempo total)  0.0001850128 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2109248666
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001759529 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147470852
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001740456 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:0
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001740456 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
@@ -3200,180 +3200,180 @@ Pruebas con n=8000000
 
 ---------------------------
 Número a buscar:322486
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000059605 s
+real (Tiempo total)  0.0009350777 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:14700764
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000019073 s
+real (Tiempo total)  0.0002639294 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:3128036
-¿Encontrado?:1
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0002629757 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:6337399
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000059605 s
+real (Tiempo total)  0.0002291203 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:61396
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0002331734 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:10393545
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0002591610 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147445644
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0002679825 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1295390003
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0002470016 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:450057883
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002269745 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:187645041
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002379417 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1980098116
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002439022 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:152503
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0002658367 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:5000
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0002310276 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1493283650
-¿Encontrado?:1
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002341270 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:214826
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002229214 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1843349527
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002660751 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1360839354
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0002450943 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2109248666
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0002410412 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147470852
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002760887 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:0
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0002470016 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
@@ -3388,180 +3388,180 @@ Pruebas con n=9000000
 
 ---------------------------
 Número a buscar:322486
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000071526 s
+real (Tiempo total)  0.0006299019 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:14700764
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002000332 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:3128036
-¿Encontrado?:1
+Encontrado: 0
 
-real (Tiempo total)  0.0000050068 s
+real (Tiempo total)  0.0001800060 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:6337399
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000038147 s
+real (Tiempo total)  0.0001471043 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:61396
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001552105 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:10393545
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001800060 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147445644
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001630783 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1295390003
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000050068 s
+real (Tiempo total)  0.0001530647 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:450057883
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000050068 s
+real (Tiempo total)  0.0001900196 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:187645041
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001881123 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1980098116
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001769066 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:152503
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001821518 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:5000
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001478195 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1493283650
-¿Encontrado?:1
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001900196 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:214826
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001690388 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1843349527
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001599789 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1360839354
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000050068 s
+real (Tiempo total)  0.0002009869 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2109248666
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0001709461 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147470852
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0001871586 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:0
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0001871586 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
@@ -3576,180 +3576,180 @@ Pruebas con n=10000000
 
 ---------------------------
 Número a buscar:322486
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000071526 s
+real (Tiempo total)  0.0008111000 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:14700764
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002429485 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:3128036
-¿Encontrado?:1
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0002770424 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:6337399
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0002729893 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:61396
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0002589226 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:10393545
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002498627 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147445644
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002269745 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1295390003
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0002830029 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:450057883
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0002629757 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:187645041
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002729893 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1980098116
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002579689 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:152503
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0002608299 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:5000
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
+real (Tiempo total)  0.0002741814 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1493283650
-¿Encontrado?:1
+Encontrado: 0
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0002820492 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:214826
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002670288 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:1843349527
-¿Encontrado?:1
+Encontrado: 0
 
-real (Tiempo total)  0.0000028610 s
-user (Tiempo de procesamiento en CPU) 0.0000000000 s
-sys (Tiempo en acciónes de E/S)  0.0000000000 s
-CPU/Wall   0.0000000000 % 
+real (Tiempo total)  0.0002601147 s
+user (Tiempo de procesamiento en CPU) 0.0156250000 s
+sys (Tiempo en acciónes de E/S)  0.0156250000 s
+CPU/Wall   12013.9321723190 % 
 
 ---------------------------
 Número a buscar:1360839354
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000050068 s
+real (Tiempo total)  0.0002470016 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2109248666
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000040531 s
+real (Tiempo total)  0.0002651215 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:2147470852
-¿Encontrado?:1
+Encontrado: 1
 
-real (Tiempo total)  0.0000030994 s
+real (Tiempo total)  0.0002470016 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 
 
 ---------------------------
 Número a buscar:0
-¿Encontrado?:0
+Encontrado: 0
 
-real (Tiempo total)  0.0000021458 s
+real (Tiempo total)  0.0002419949 s
 user (Tiempo de procesamiento en CPU) 0.0000000000 s
 sys (Tiempo en acciónes de E/S)  0.0000000000 s
 CPU/Wall   0.0000000000 % 

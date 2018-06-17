@@ -176,7 +176,7 @@ int llenar_info_archivo(struct info_archivo * info, char * cadena){
 
 
 int insertar_nodo_arbol(struct arbol_decodificador ** arbol, int valor, char * camino, int contador_camino){
-    if((*arbol) == NULL){printf("%s\n", "SOY NULO"); return -1;}
+    if((*arbol) == NULL){printf("%s\n", "Árbol nulo"); return -1;}
     //printf("%c\n", camino[contador_camino]);
     if(camino[contador_camino] == '0'){
         if((*arbol) -> hijo_izq == NULL){

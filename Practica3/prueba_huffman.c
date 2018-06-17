@@ -1,7 +1,7 @@
 //*****************************************************************
-//THE CHILAKILLERS
+//The Black Jackets
 //Curso: Análisis de algoritmos
-//(C) Enero 2013
+//(C) Junio 2018
 //ESCOM-IPN
 //Ejemplo de medición de tiempo en C y recepción de parametros en C bajo UNIX
 //Compilación: "gcc main.c tiempo.x  -o main(teimpo.c si se tiene la implementación de la libreria o tiempo.o si solo se tiene el codigo objeto)"

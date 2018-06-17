@@ -63,7 +63,7 @@ void construir_tabla(struct Nodo *lista, char *archivo) {
 
 void crear_comprimido(char *nombre_archivo) {
     int archivo = open(nombre_archivo, O_RDONLY);
-    int f_comprimido = open("comprimido", O_WRONLY|O_CREAT|O_TRUNC, 0644);
+    int f_comprimido = open("comprimido.bj", O_WRONLY|O_CREAT|O_TRUNC, 0644);
     int leidos = 0;
     unsigned char buffer[TAM_MAX_BLOQUE];
     while ((leidos = read(archivo, buffer, TAM_MAX_BLOQUE)) > 0){

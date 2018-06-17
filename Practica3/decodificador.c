@@ -106,7 +106,7 @@ struct info_archivo * construir_arbol(FILE * tabla, struct arbol_decodificador *
         llenar_info_archivo(info, buffer);
     }
     else{
-        printf("%s\n", "No puedo leer la tabla...");
+        printf("%s\n", "No puedo leer la tabla");
         exit(3);
     }
 

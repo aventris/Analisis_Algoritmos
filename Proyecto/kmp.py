@@ -41,8 +41,6 @@ def encontrar_cadena(secuencia,patron,funcion_fallo):
 				indice=mover
 	return "Patron no encontrado"
 
-
-
 secuencia="CTCACTGCCTGCCTAG"
 patron="CTGCCTAG"
 funcion_fallo=encontrar_f_fallos(patron)

@@ -8,9 +8,6 @@ def encontrar_f_fallos(cadena):
 		if indice==0 or (indice+1)==len(cadena):
 			pass
 		else:
-			# print("indice:"+cadena[indice])
-			# print("comparar:"+cadena[comparar])
-			# print(comparar)
 			if cadena[indice]==cadena[comparar]:
 				comparar+=1
 				fallos.append(comparar)

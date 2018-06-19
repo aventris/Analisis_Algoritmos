@@ -1,4 +1,9 @@
+function limpiar(){
+	var contenedor=document.getElementById("contenedor");
+	contenedor.innerHTML="";
+}
 function encontrar_f_fallos(cadena){
+	limpiar();
 	var indice=0;
 	var comparar=0;
 	var fallos=[];

@@ -1,24 +1,45 @@
+function wait(ms){
+   var start = new Date().getTime();
+   var end = start;
+   while(end < start + ms) {
+     end = new Date().getTime();
+  }
+}
 function limpiar(){
 	var contenedor=document.getElementById("contenedor");
 	contenedor.innerHTML="";
+}
+function addContenedor(caracter,i){
+	var contenedor=document.getElementById("contenedor");
+	elemento=document.createElement("div");
+	texto=document.createTextNode(caracter);
+	elemento.appendChild(texto);
+	elemento.id=""+i;
+	contenedor.appendChild(elemento);
+}
+function addContenedor2(num){
+	var contenedor=document.getElementById("contenedor2");
+	elemento=document.createElement("div");
+	texto=document.createTextNode(num.toString());
+	elemento.appendChild(texto);
+	contenedor.appendChild(elemento);
+	move('#contenedor2 div').set('background-color', 'green').duration('4s').end();
 }
 function encontrar_f_fallos(cadena){
 	limpiar();
 	var indice=0;
 	var comparar=0;
 	var fallos=[];
+	//Creamos los dos primeros valores de la tabla de fallos
 	fallos.push(-1);
+	addContenedor2(-1);
+	wait(7000);
 	fallos.push(0);
+	addContenedor2(0);
 	//Creamos los divs de la función fallo
-	var contenedor=document.getElementById("contenedor");
 	for (var i=0;i<cadena.length;i++){
-		var elemento=document.createElement("div");
-		var texto=document.createTextNode(cadena[i]);
-		elemento.appendChild(texto);
-		elemento.id=""+i;
-		contenedor.appendChild(elemento);
+		addContenedor(cadena[i],i);
 	}
-	
 	//calculamos función fallo
 	for(var i=0;i<cadena.length;i++){
 		if (indice==0 || (indice+1)==cadena.length){
@@ -42,7 +63,6 @@ function encontrar_f_fallos(cadena){
 	}
 	return fallos;
 }
-
 function encontrar_cadena(secuencia,patron,funcion_fallo){
 	var i=0;
 	var indice=0;
@@ -70,7 +90,6 @@ function encontrar_cadena(secuencia,patron,funcion_fallo){
 	}
 	return "Patron no encontrado";
 }
-
 function main(){
 	var secuencia=document.getElementById("secuencia").value;
 	var patron=document.getElementById("patron").value;
